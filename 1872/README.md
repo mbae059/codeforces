@@ -86,7 +86,7 @@ xor은 같은 값이면 0, 다른 값이면 1을 리턴한다.
 
 세그먼트 트리를 아는 사람이라면 맨 처음 레이지 세그를 떠올렸을 것이다.
 
-[xor](https://www.acmicpc.net/problem/14245) 문제와 상당히 닮아있다.
+<https://www.acmicpc.net/problem/14245> 문제와 상당히 닮아있다.
 
 하지만 $2 g$ operation 에 대하여 구간값을 묻는 것이 아니라 전체 배열의 xor값을 묻는 것에 유의하자
 
